@@ -1,5 +1,5 @@
-function fizzBuzz(){
-  // Start here
-};
+function fizzBuzz() {
+  console.log("FizzBuzz");
+}
 
 module.exports = fizzBuzz;
